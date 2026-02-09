@@ -29,8 +29,8 @@
 - [ ] 1 window-function drill (ROW_NUMBER / SUM OVER / LAG)
 
 **ML/Stats**
-- [ ] Random variables (discrete vs continuous)
-- [ ] PMF vs PDF vs CDF
+- [✅] Random variables (discrete vs continuous)
+- [✅] PMF vs PDF vs CDF
 - [ ] Expectation + linearity of expectation
 - [ ] Variance + intuition
 - [ ] Covariance vs correlation
@@ -47,6 +47,8 @@
 - [ ] Prompt basics (instruction + context)
 
 ### 📚 Resources (exact)
+- https://www.youtube.com/watch?v=3VYupIsbLlY
+- https://www.youtube.com/watch?v=YXLVjCKVP7U
 - StatQuest video index (use relevant videos): https://statquest.org/video_index.html
 - StatQuest: Central Limit Theorem (video): https://www.youtube.com/watch?v=YAlJCEDH2uY
 - Kaggle 5-Day GenAI guide: https://www.kaggle.com/learn-guide/5-day-genai
@@ -65,8 +67,8 @@
 
 **ML/Stats**
 - [ ] Population vs sample
-- [ ] Sampling bias vs random sampling
-- [ ] Null vs alternative hypothesis
+- [ ✅] Sampling bias vs random sampling - https://www.geeksforgeeks.org/maths/sampling-bias/
+- [ ✅] Null vs alternative hypothesis - https://resources.nu.edu/statsresources/hypothesis
 - [ ] p-value (what it is / isn’t)
 - [ ] Type I error = False Positive
 - [ ] Type II error = False Negative
